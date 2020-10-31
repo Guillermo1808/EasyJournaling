@@ -1,5 +1,5 @@
 # Serverless Journaling app
-
+https://easy-journaling.herokuapp.com
 
 # Functionality of the application
 
